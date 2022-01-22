@@ -1,0 +1,8 @@
+
+
+
+#comments are accepted here
+*.html
+images/
+!main.js
+
